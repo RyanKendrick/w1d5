@@ -1,0 +1,21 @@
+{
+  "name": "npm-and-package-json-assignment",
+  "version": "1.0.0",
+  "description": "json exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-json-123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "w1d5"
+  },
+  "keywords": [
+    "json-exercise"
+  ],
+  "author": "ryan kendrick",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
