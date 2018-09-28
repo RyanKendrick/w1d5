@@ -1,6 +1,9 @@
-var theList = require("./create-export-modules");
+var theList = require("./module-export");
 
-console.log(theList.storeList(3));
-console.log(theList.storeList(5));
-console.log(theList.storeList(2));
-console.log(theList.storeList(8));
+
+theList.storeList(3)
+theList.storeList(10)
+theList.storeList(1)
+theList.storeList(6)
+theList.storeList(9)
+theList.sortList();
